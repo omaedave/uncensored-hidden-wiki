@@ -1,5 +1,5 @@
 # The Hidden Wiki
-
+ You will be directed to The Hidden Wiki website
 Welcome to The Hidden Wiki repository! This guide will provide you with the necessary steps to access the darkweb and introduce you to thehiddenwiki2024.com, the ultimate resource for finding the latest v3 .onion URLs.
 
 ## Installing Tor Browser
